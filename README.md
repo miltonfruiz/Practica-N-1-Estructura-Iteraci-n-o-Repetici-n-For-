@@ -1,1 +1,1 @@
-# Practica-N-1-Estructura-Iteraci-n-o-Repetici-n-For-
+# Practica-N-1-Estructura-Iteracion-o-Repeticion-For-
